@@ -1,23 +1,12 @@
+register_key = getgenv().Key or getgenv().wl_key or _G.wl_key or nil;
 
 ([[
-                This script has been licensed using Luauth
-            Unauthorized distribution of this script is forbidden.
-      Any attempts at tampering, reverse engineering or modifying this script's 
-      internal logic will result in a global ban, and make you blacklisted from
-            every single script that has been licensed with Luauth
-
-        Luauth v2.5a for Roblox, #1 lua whitelisting system by Federal#9999
-				   https://luauth.xyz/
-
       ____                                  _   _       _     
      |  _ \ ___  __ _ _ __   ___ _ __ ___  | | | |_   _| |__  
      | |_) / _ \/ _` | '_ \ / _ \ '__/ __| | |_| | | | | '_ \ 
      |  _ <  __/ (_| | |_) |  __/ |  \__ \ |  _  | |_| | |_) |
      |_| \_\___|\__,_| .__/ \___|_|  |___/ |_| |_|\__,_|_.__/ 
                      |_|                                      
-
-                                                     
-                 Script ID: d0fe541c9ae7b432d56cb6e2fdfbe189
 ]])
 
 
