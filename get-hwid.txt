@@ -1,8 +1,8 @@
-setclipboard((syn and syn.request or request)({Url = 'https://api.luauth.xyz/hwid', Method = syn and "Get" or "GET"}).Body)
+setclipboard((syn and syn.request or request)({Url = 'https://buy.khysarth.ga/', Method = syn and "Get" or "GET"}).Body)
 
 local StarterGui = game:GetService("StarterGui")
 StarterGui:SetCore("SendNotification", {
-    Title = "HWID Copied";
-    Text = "You can now paste your HWID";
-    Duration = 15;
+	Title = "HWID Copied";
+	Text = "You can now paste your HWID";
+	Duration = 15;
 })
