@@ -6,9 +6,6 @@
      |  _ <  __/ (_| | |_) |  __/ |  \__ \ |  _  | |_| | |_) |
      |_| \_\___|\__,_| .__/ \___|_|  |___/ |_| |_|\__,_|_.__/ 
                      |_|                                      
-                                 
-                 https://discord.com/invite/reapershub
-                        discord.gg/reapershub
 ]])
 
 
