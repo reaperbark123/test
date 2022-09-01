@@ -1,4 +1,3 @@
-register_key = getgenv().Key or getgenv().wl_key or _G.wl_key or nil;
 
 ([[
       ____                                  _   _       _     
@@ -7,6 +6,9 @@ register_key = getgenv().Key or getgenv().wl_key or _G.wl_key or nil;
      |  _ <  __/ (_| | |_) |  __/ |  \__ \ |  _  | |_| | |_) |
      |_| \_\___|\__,_| .__/ \___|_|  |___/ |_| |_|\__,_|_.__/ 
                      |_|                                      
+                                 
+                 https://discord.com/invite/reapershub
+                        discord.gg/reapershub
 ]])
 
 
