@@ -1,3 +1,4 @@
+register_key = getgenv().ReaperKey or nil;
 
 ([[
       ____                                  _   _       _     
